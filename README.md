@@ -1,6 +1,9 @@
-### Hi there 👋
+### Think-DesignAndCode 👋
+<p align="center">
 
-<!--
+  <img src="https://github.com/Think-DesignAndCode/Think-DesignAndCode/assets/126211714/6f3fa959-4bcb-4e12-8780-23b3e084ae7d" />
+</p>
+  <!--
 **Think-DesignAndCode/Think-DesignAndCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![20150708172005-coding-working-workspace-apple-macintosh](https://github.com/Think-DesignAndCode/Think-DesignAndCode/assets/126211714/6f3fa959-4bcb-4e12-8780-23b3e084ae7d)
 -->

@@ -1,7 +1,8 @@
-### Think-DesignAndCode 👋
-<p align="center">
+### Think Carefully, Design Concisely And Code Diligently! 👋
 
-  <img src="https://github.com/Think-DesignAndCode/Think-DesignAndCode/assets/126211714/6f3fa959-4bcb-4e12-8780-23b3e084ae7d" />
+
+<p align="center">
+  <img src="https://github.com/Think-DesignAndCode/Think-DesignAndCode/assets/126211714/6f3fa959-4bcb-4e12-8780-23b3e084ae7d" style="animation: blink-animation 1s steps(5, start) infinite;">
 </p>
   <!--
 **Think-DesignAndCode/Think-DesignAndCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

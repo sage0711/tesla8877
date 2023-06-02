@@ -2,7 +2,7 @@
 ### AI Researcher | Machine Learning Engineer
 
 <p align="center">
-  <img src="./redfirelion.jpg" alt="alt text" width="100%" height="auto"/>
+  <img src="./redfirelion.jpg" alt="Red Lion" width="100%" height="auto"/>
 </p>
 
 I am passionate about developing innovative AI solutions that can solve complex real-world problems. With a background in computer science and engineering, I specialize in machine learning, natural language processing, and computer vision. My research interests include deep learning, reinforcement learning, and Bayesian methods. 
@@ -13,3 +13,6 @@ I am passionate about developing innovative AI solutions that can solve complex 
 - 💬 Ask me about anything related to AI, ML, NLP or CV. I am always happy to help!
 - 📫 How to reach me: [insert your contact information here]
 - 😄 Pronouns: He/Him
+<div>
+  <img src="https://phoneky.co.uk/thumbs/screensavers/down/animals/firelion_z6Vm13lc.gif" alt="Red Lion" width="100%" height="auto" />
+  </div>

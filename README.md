@@ -1,21 +1,11 @@
-### Think Carefully, Design Concisely And Code Diligently! 👋
+## Hi there, I'm Red Lion 👋
+### AI Researcher | Machine Learning Engineer
 
+I am passionate about developing innovative AI solutions that can solve complex real-world problems. With a background in computer science and engineering, I specialize in machine learning, natural language processing, and computer vision. My research interests include deep learning, reinforcement learning, and Bayesian methods. 
 
-<p align="center">
-  <img src="https://github.com/Think-DesignAndCode/Think-DesignAndCode/assets/126211714/6f3fa959-4bcb-4e12-8780-23b3e084ae7d" style="animation: blink-animation 1s steps(5, start) infinite;">
-</p>
-  <!--
-**Think-DesignAndCode/Think-DesignAndCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![20150708172005-coding-working-workspace-apple-macintosh](https://github.com/Think-DesignAndCode/Think-DesignAndCode/assets/126211714/6f3fa959-4bcb-4e12-8780-23b3e084ae7d)
--->
+- 🔭 I’m currently working on developing intelligent systems to automate processes in various domains.
+- 🌱 I’m constantly learning and expanding my knowledge in the field of artificial intelligence.
+- 👯 I’m looking to collaborate with other researchers and developers to create groundbreaking AI applications.
+- 💬 Ask me about anything related to AI, ML, NLP or CV. I am always happy to help!
+- 📫 How to reach me: [insert your contact information here]
+- 😄 Pronouns: He/Him

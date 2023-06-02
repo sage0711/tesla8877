@@ -1,6 +1,10 @@
 ## Hi there, I'm Red Lion 👋
 ### AI Researcher | Machine Learning Engineer
 
+<p align="center">
+  <img src="./redfirelion.jpg" alt="alt text" width="100%" height="auto"/>
+</p>
+
 I am passionate about developing innovative AI solutions that can solve complex real-world problems. With a background in computer science and engineering, I specialize in machine learning, natural language processing, and computer vision. My research interests include deep learning, reinforcement learning, and Bayesian methods. 
 
 - 🔭 I’m currently working on developing intelligent systems to automate processes in various domains.

@@ -34,5 +34,5 @@ I'm Red Lion, a skilled Full Stack Mobile & Web Engineer with a passion for buil
 - I'm also a semi-professional piano player and have performed in several local music festivals!
 
 <div>
-  <img src="https://phoneky.co.uk/thumbs/screensavers/down/animals/firelion_z6Vm13lc.gif" alt="Red Lion" width="100%" height="auto" />
+  <img src="https://phoneky.co.uk/thumbs/screensavers/down/animals/firelion_z6Vm13lc.gif" alt="Red Lion" width="50%" height="auto" style="margin: auto" />
   </div>

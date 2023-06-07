@@ -1,7 +1,7 @@
 ## Full Stack Mobile & Web Engineer
 ### Hi there! 👋
 
-I'm Ishihara Yuudai, a skilled Full Stack Mobile & Web Engineer with a passion for building scalable applications and creating seamless user experiences. With over 5 years of experience in the tech industry, I am proficient in developing end-to-end software solutions for both web and mobile platforms.
+I'm Red Lion, a skilled Full Stack Mobile & Web Engineer with a passion for building scalable applications and creating seamless user experiences. With over 5 years of experience in the tech industry, I am proficient in developing end-to-end software solutions for both web and mobile platforms.
 
 <p align="center">
   <img src="./redfirelion.jpg" alt="Red Lion" width="100%" height="auto"/>
@@ -27,7 +27,7 @@ I'm Ishihara Yuudai, a skilled Full Stack Mobile & Web Engineer with a passion f
 
 #### 🔍 How you can reach me:
 
-- Feel free to connect with me on LinkedIn [@ishiharayuudai](https://www.linkedin.com/in/ishiharayuudai/) or Twitter [@ishihara_yd](https://twitter.com/ishihara_yd)
+- Feel free to connect with me
 
 #### 😄 Fun fact:
 

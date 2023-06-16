@@ -1,7 +1,7 @@
 ## Software Developer
 ### Hi there! 👋
 
-I'm Red Lion, a skilled Full Stack Mobile & Web Engineer with a passion for building scalable applications and creating seamless user experiences. With over 5 years of experience in the tech industry, I am proficient in developing end-to-end software solutions for both web and mobile platforms.
+I'm Red Lion, a software developer with a passion for building scalable applications and creating seamless user experiences. With over 5 years of experience in the tech industry, I am proficient in developing end-to-end software solutions for both web and mobile platforms.
 
 <p align="center">
   <img src="./redfirelion.jpg" alt="Red Lion" width="100%" height="auto"/>

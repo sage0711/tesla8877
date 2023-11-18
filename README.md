@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./tesla.jpg" alt="Magnefic Field" width="100%" height="auto"/>
+  <img src="./tesla.jpg" alt="Magnefic Field" width="80%" height="auto"/>
 </p>
 
 <p>

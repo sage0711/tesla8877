@@ -1,8 +1,8 @@
-
+<!--
 <p align="center">
   <img src="./tesla.jpg" alt="Magnefic Field" width="50%" height="auto"/>
 </p>
-
+-->
 <p>
   Certificates:
   <ul>

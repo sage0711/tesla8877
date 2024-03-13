@@ -3,7 +3,7 @@
   <img src="./tesla.jpg" alt="Magnefic Field" width="50%" height="auto"/>
 </p>
 -->
-## Certificates:
+/*## Certificates:
 <p>
   <ul>
     <li><a href="https://www.testdome.com/certificates/b8ab1e3927004a06b73f4723efdfc727">Blockchain Developer Ranking Top 25%</a></li>
@@ -11,7 +11,7 @@
     <li><a href="https://www.testdome.com/certificates/1bdc6d1a2fb143e892c90d1b0dd83f24">Teamwork Ranking Top 25%</a></li>
   </ul>
 </p>
-
+*/
 <!-- 
 <hr />
 <div>
